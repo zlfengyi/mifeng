@@ -1,0 +1,1 @@
+{"type":"UIBaseView","props":{"width":750,"top":0,"runtime":"UIs/Coin/CoinUI.ts","right":0,"left":0,"height":1334,"bottom":0},"compId":2,"child":[{"type":"Animation","props":{"x":-200,"var":"coinLineAni","source":"act/jinbi.ani","name":"coinLineAni"},"compId":3}],"loadList":["act/jinbi.ani"],"loadList3D":[]}

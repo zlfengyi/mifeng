@@ -1,0 +1,235 @@
+[{
+        "key": "LEVEL",
+        "en-us": "LEVEL",
+        "id": "LEVEL",
+        "vi": "MÀN",
+        "es": "NIVEL",
+        "ar": "المرحلة",
+        "ru": "УРОВЕНЬ"
+    },
+    {
+        "key": "Confirm to exit",
+        "en-us": "Confirm to exit",
+        "id": "Konfirmasi untuk keluar",
+        "vi": "Xác nhận để thoát",
+        "es": "Confirma para salir",
+        "ar": "تأكيد الخروج",
+        "ru": "Подтвердить выход?"
+    },
+    {
+        "key": "Confirm",
+        "en-us": "Confirm",
+        "id": "Konfirmasi",
+        "vi": "Đồng ý",
+        "es": "Confirmar",
+        "ar": "تأكيد",
+        "ru": "Подтвердить"
+    },
+    {
+        "key": "Cancel",
+        "en-us": "Cancel",
+        "id": "Batal",
+        "vi": "Hủy bỏ",
+        "es": "Cancelar",
+        "ar": "إلغاء",
+        "ru": "Отмена"
+    },
+    {
+        "key": "Tap",
+        "en-us": "Tap",
+        "id": "Ketuk",
+        "vi": "Nhấn",
+        "es": "Toca",
+        "ar": "اضغط",
+        "ru": "Нажмите"
+    },
+    {
+        "key": "Missions",
+        "en-us": "Missions",
+        "id": "Misi",
+        "vi": "Nhiệm vụ",
+        "es": "Misiones",
+        "ar": "المهمات",
+        "ru": "Миссии"
+    },
+    {
+        "key": "Skin",
+        "en-us": "Skin",
+        "id": "Skin",
+        "vi": "Skin",
+        "es": "Piel",
+        "ar": "بشرة",
+        "ru": "Скин"
+    },
+    {
+        "key": "Skins",
+        "en-us": "Skins",
+        "id": "Skin",
+        "vi": "Skin",
+        "es": "Pieles",
+        "ar": "بشرة",
+        "ru": "Скины"
+    },
+    {
+        "key": "Hives",
+        "en-us": "Hives",
+        "id": "Sarang",
+        "vi": "Tổ",
+        "es": "Colmenas",
+        "ar": "الخلايا",
+        "ru": "Ульи"
+    },
+    {
+        "key": "Speed",
+        "en-us": "Speed",
+        "id": "kecepatan",
+        "vi": "Tốc độ",
+        "es": "Velocidad",
+        "ar": "سرعة",
+        "ru": "Скорость"
+    },
+    {
+        "key": "Launch",
+        "en-us": "Launch",
+        "id": "Peluncuran",
+        "vi": "Phóng",
+        "es": "Lanzamiento",
+        "ar": "انبعاث",
+        "ru": "Запустить"
+    },
+    {
+        "key": "Not enough balance",
+        "en-us": "Not enough balance",
+        "id": "Saldo tidak cukup",
+        "vi": "Số dư không đủ",
+        "es": "No tienes suficiente saldo",
+        "ar": "الرصيد لا يكفي",
+        "ru": "Недостаточный баланс"
+    },
+    {
+        "key": "Daily Missions",
+        "en-us": "Daily Missions",
+        "id": "Misi Harian",
+        "vi": "Nhiệm vụ hằng ngày",
+        "es": "Misiones diarias",
+        "ar": "المهمات اليومية",
+        "ru": "Ежедневные миссии"
+    },
+    {
+        "key": "Pass 5 levels",
+        "en-us": "Pass 5 levels",
+        "id": "Selesaikan 5 level",
+        "vi": "Vượt qua 5 level",
+        "es": "Pasa 5 niveles",
+        "ar": "أكمل 5 مراحل",
+        "ru": "Пройдите 5 уровней"
+    },
+    {
+        "key": "Sting heads to kill 5 targets",
+        "en-us": "Sting heads to kill 5 targets",
+        "id": "Sengat kepala untuk membunuh 5 target",
+        "vi": "Chích đầu để giết 5 mục tiêu",
+        "es": "Pica en las cabezas para matar 5 objetivos",
+        "ar": "السع واقتل 5 أهداف",
+        "ru": "Жало собирается убить 5 целей"
+    },
+    {
+        "key": "Pass 10 levels",
+        "en-us": "Pass 10 levels",
+        "id": "Selesaikan 10 level",
+        "vi": "Vượt qua 10 level",
+        "es": "Pasa 10 niveles",
+        "ar": "أكمل 10 مراحل",
+        "ru": "Пройдите 10 уровней"
+    },
+    {
+        "key": "Claim",
+        "en-us": "Claim",
+        "id": "Ambil",
+        "vi": "Nhận",
+        "es": "Obtener",
+        "ar": "استلم",
+        "ru": "Взять"
+    },
+    {
+        "key": "Completed",
+        "en-us": "Completed",
+        "id": "Selesai",
+        "vi": "Hoàn thành",
+        "es": "Concluído",
+        "ar": "مُنجز",
+        "ru": "Выполнено"
+    },
+    {
+        "key": "All targets eliminated",
+        "en-us": "All targets eliminated",
+        "id": "Semua target dieliminasi",
+        "vi": "Đã loại bỏ tất cả mục tiêu",
+        "es": "Todos los objetivos eliminados",
+        "ar": "تم القضاء على جميع الأهداف",
+        "ru": "Все цели уничтожены"
+    },
+    {
+        "key": "New unlocked",
+        "en-us": "New unlocked",
+        "id": "Baru dibuka",
+        "vi": "Đã mở khóa mới",
+        "es": "Nuevo desbloqueado",
+        "ar": "فتح عنصر جديد",
+        "ru": "Разблокировано новое"
+    },
+    {
+        "key": "Reward",
+        "en-us": "Reward",
+        "id": "Hadiah",
+        "vi": "Phần thưởng",
+        "es": "Recompensa",
+        "ar": "مكافاة",
+        "ru": "Награда"
+    },
+    {
+        "key": "Next",
+        "en-us": "Next",
+        "id": "Selanjutnya",
+        "vi": "Tiếp",
+        "es": "Siguiente",
+        "ar": "التالي",
+        "ru": "Далее"
+    },
+    {
+        "key": "Hive unlocked",
+        "en-us": "Hive unlocked",
+        "id": "Sarang dibuka",
+        "vi": "Đã mở khóa tổ",
+        "es": "Colmena desbloqueada",
+        "ar": "فتحت الخلية",
+        "ru": "Улей разблокирован"
+    },
+    {
+        "key": "Skin unlocked",
+        "en-us": "Skin unlocked",
+        "id": "Skin dibuka",
+        "vi": "Đã mở khóa skin",
+        "es": "Piel desbloqueada",
+        "ar": "فتح المظهر",
+        "ru": "Скин разблокирован"
+    },
+    {
+        "key": "Currency",
+        "en-us": "Currency",
+        "id": "Mata Uang",
+        "vi": "Tiền tệ",
+        "es": "Tipo de moneda",
+        "ar": "العملة",
+        "ru": "Валюта"
+    },
+    {
+        "key": "Receive",
+        "en-us": "Receive",
+        "id": "Terima",
+        "vi": "Nhận",
+        "es": "Recibir",
+        "ar": "تلقي",
+        "ru": "Получить"
+    }
+]

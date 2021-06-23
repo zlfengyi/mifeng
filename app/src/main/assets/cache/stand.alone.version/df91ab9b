@@ -1,0 +1,23 @@
+[{
+        "taskId": 0,
+        "taskType": 0,
+        "taskText": "Pass 5 levels",
+        "target": 5,
+        "reward": 25
+    },
+    {
+        "taskId": 1,
+        "taskType": 0,
+        "taskText": "Sting the head to kill 5 targets",
+        "target": 5,
+        "reward": 35
+    },
+    {
+        "taskId": 2,
+        "taskType": 0,
+        "taskText": "Pass 10 levels",
+        "target": 10,
+        "reward": 50
+    }
+
+]

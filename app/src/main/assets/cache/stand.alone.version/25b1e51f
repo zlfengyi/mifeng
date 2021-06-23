@@ -1,0 +1,1 @@
+{"type":"Base2DEntity","props":{"y":0,"x":0,"width":750,"runtime":"UIs/Games/BaseCard.ts","presetID":1,"isPresetRoot":true,"height":1334},"compId":2,"child":[{"type":"Image","props":{"var":"test","skin":"comp/image.png","presetID":2},"compId":3}],"loadList":["comp/image.png"],"loadList3D":[]}
